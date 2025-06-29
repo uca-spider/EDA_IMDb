@@ -1,27 +1,3 @@
-Tentu saja! Dengan senang hati saya akan bantu menyusun dan memasukkan semua analisis grafik tersebut ke dalam sebuah file README.md yang utuh dan profesional untuk proyek EDA IMDb Anda.
-
-Ini adalah langkah yang sangat penting. Menyajikan temuan Anda dengan jelas adalah skill utama yang dicari rekruter.
-
-Berikut adalah draf lengkap README.md yang bisa langsung Anda salin-tempel ke repository GitHub Anda.
-
-Catatan Penting Sebelum Anda Menyalin:
-Buat Folder Gambar: Di dalam repository GitHub Anda, buatlah sebuah folder baru dengan nama img (atau nama lain yang Anda suka).
-
-Upload & Ganti Nama Gambar: Upload kelima gambar grafik Anda ke dalam folder img tersebut. Agar rapi, ganti nama file-nya menjadi lebih deskriptif, misalnya:
-
-download (3).png -> frekuensi_genre.png
-
-download (1).png -> distribusi_rating.png
-
-download (2).png -> korelasi_rating_metascore.png
-
-download (4).png -> boxplot_sertifikasi.png
-
-download (5).png -> heatmap_korelasi.png
-
-Salin Kode di Bawah: Salin semua konten di bawah ini ke file README.md Anda. Path gambar sudah saya sesuaikan dengan saran di atas (img/nama_file.png).
-
-(Mulai Salin dari Sini)
 📊 Analisis Data Eksploratif (EDA) pada Dataset Film IMDb
 Sebuah proyek analisis data untuk menggali tren, pola, dan wawasan tersembunyi dari dataset Top 1000 Film di IMDb. Proyek ini mendemonstrasikan proses lengkap dari pembersihan data, analisis eksploratif, hingga visualisasi untuk menjawab pertanyaan-pertanyaan kunci seputar dunia perfilman.
 
