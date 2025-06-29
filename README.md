@@ -1,12 +1,12 @@
-#📊 Analisis Data Eksploratif (EDA) pada Dataset Film IMDb
+# 📊 Analisis Data Eksploratif (EDA) pada Dataset Film IMDb
 Sebuah proyek analisis data untuk menggali tren, pola, dan wawasan tersembunyi dari dataset Top 1000 Film di IMDb. Proyek ini mendemonstrasikan proses lengkap dari pembersihan data, analisis eksploratif, hingga visualisasi untuk menjawab pertanyaan-pertanyaan kunci seputar dunia perfilman.
 
-Latar Belakang
+## Latar Belakang
 Industri film sangat kompetitif dan didorong oleh data. Memahami faktor-faktor apa yang berkontribusi terhadap kesuksesan sebuah film—baik secara komersial maupun rating—adalah hal yang esensial bagi para produser, sutradara, dan investor. Proyek ini bertujuan untuk menganalisis data historis dari film-film terbaik untuk menemukan pola-pola tersebut.
 
 Dataset: IMDb Dataset of top 1000 Movies and TV shows by Akshay Dattatray Khare
 
-🎯 Tujuan Proyek
+## 🎯 Tujuan Proyek
 Pembersihan Data: Mempersiapkan dataset mentah agar siap untuk dianalisis.
 
 Analisis Genre: Mengidentifikasi genre film yang paling umum diproduksi dan paling sukses.
@@ -17,7 +17,7 @@ Analisis Korelasi: Menyelidiki hubungan antara variabel kunci seperti rating, pe
 
 Analisis Sertifikasi Usia: Melihat apakah ada pengaruh sertifikasi usia terhadap rating sebuah film.
 
-🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 Python 3.11
 
 Jupyter Notebook
@@ -26,12 +26,11 @@ Library Analisis Data: Pandas, NumPy
 
 Library Visualisasi Data: Matplotlib, Seaborn
 
-📈 Temuan Utama & Wawasan Kunci
+## 📈 Temuan Utama & Wawasan Kunci
 Berikut adalah rangkuman temuan dan wawasan paling menarik dari analisis ini:
 
 1. Genre Drama Mendominasi Lanskap Film Berkualitas
 Analisis frekuensi menunjukkan bahwa genre Drama secara signifikan lebih sering muncul di daftar film-film terbaik dibandingkan genre lainnya. Ini mengindikasikan bahwa narasi yang kuat dan berfokus pada karakter adalah fondasi paling umum untuk sebuah karya yang diakui.
-(assets/images/img/frekuensi_genre.png)
 
 3. Perbedaan Cara Pandang Antara Audiens dan Kritikus
 Saat membandingkan distribusi rating, terlihat jelas bahwa audiens dan kritikus memiliki cara menilai yang berbeda.
