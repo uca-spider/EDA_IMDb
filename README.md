@@ -31,7 +31,7 @@ Berikut adalah rangkuman temuan dan wawasan paling menarik dari analisis ini:
 
 1. Genre Drama Mendominasi Lanskap Film Berkualitas
 Analisis frekuensi menunjukkan bahwa genre Drama secara signifikan lebih sering muncul di daftar film-film terbaik dibandingkan genre lainnya. Ini mengindikasikan bahwa narasi yang kuat dan berfokus pada karakter adalah fondasi paling umum untuk sebuah karya yang diakui.
-(https://github.com/uca-spider/EDA_IMDb/blob/main/img/frekuensi_genre.png)
+(assets/img/frekuensi_genre.png)
 
 3. Perbedaan Cara Pandang Antara Audiens dan Kritikus
 Saat membandingkan distribusi rating, terlihat jelas bahwa audiens dan kritikus memiliki cara menilai yang berbeda.
