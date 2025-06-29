@@ -37,7 +37,7 @@ Saat membandingkan distribusi rating, terlihat jelas bahwa audiens dan kritikus 
 
 * Audiens (IMDb) cenderung memberikan rating yang sangat terkonsentrasi di rentang nilai tinggi (sekitar 7.8 - 8.0), menunjukkan adanya konsensus yang kuat untuk film-film yang dianggap hebat.
 
-  - Kritikus (Metascore) menunjukkan variasi opini yang jauh lebih besar, dengan sebaran skor yang lebih lebar dan tidak seketat audiens.
+* Kritikus (Metascore) menunjukkan variasi opini yang jauh lebih besar, dengan sebaran skor yang lebih lebar dan tidak seketat audiens.
 
 3. Opini Audiens dan Kritikus Seringkali Sejalan, Tapi Tidak Selalu
 Meskipun cara menilai mereka berbeda, secara umum film yang disukai audiens juga disukai kritikus. Terdapat korelasi positif yang jelas antara Rating IMDb dan Metascore. Namun, banyaknya sebaran data menunjukkan masih banyak film di mana kedua pihak memiliki pendapat yang berbeda.
