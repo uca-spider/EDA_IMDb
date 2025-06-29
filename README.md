@@ -35,7 +35,7 @@ Analisis frekuensi menunjukkan bahwa genre Drama secara signifikan lebih sering 
 2. Perbedaan Cara Pandang Antara Audiens dan Kritikus
 Saat membandingkan distribusi rating, terlihat jelas bahwa audiens dan kritikus memiliki cara menilai yang berbeda.
 
-  - Audiens (IMDb) cenderung memberikan rating yang sangat terkonsentrasi di rentang nilai tinggi (sekitar 7.8 - 8.0), menunjukkan adanya konsensus yang kuat untuk film-film yang dianggap hebat.
+*Audiens (IMDb) cenderung memberikan rating yang sangat terkonsentrasi di rentang nilai tinggi (sekitar 7.8 - 8.0), menunjukkan adanya konsensus yang kuat untuk film-film yang dianggap hebat.
 
   - Kritikus (Metascore) menunjukkan variasi opini yang jauh lebih besar, dengan sebaran skor yang lebih lebar dan tidak seketat audiens.
 
