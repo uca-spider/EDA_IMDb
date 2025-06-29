@@ -35,9 +35,9 @@ Analisis frekuensi menunjukkan bahwa genre Drama secara signifikan lebih sering 
 2. Perbedaan Cara Pandang Antara Audiens dan Kritikus
 Saat membandingkan distribusi rating, terlihat jelas bahwa audiens dan kritikus memiliki cara menilai yang berbeda.
 
-- Audiens (IMDb) cenderung memberikan rating yang sangat terkonsentrasi di rentang nilai tinggi (sekitar 7.8 - 8.0), menunjukkan adanya konsensus yang kuat untuk film-film yang dianggap hebat.
+  - Audiens (IMDb) cenderung memberikan rating yang sangat terkonsentrasi di rentang nilai tinggi (sekitar 7.8 - 8.0), menunjukkan adanya konsensus yang kuat untuk film-film yang dianggap hebat.
 
-- Kritikus (Metascore) menunjukkan variasi opini yang jauh lebih besar, dengan sebaran skor yang lebih lebar dan tidak seketat audiens.
+  - Kritikus (Metascore) menunjukkan variasi opini yang jauh lebih besar, dengan sebaran skor yang lebih lebar dan tidak seketat audiens.
 
 3. Opini Audiens dan Kritikus Seringkali Sejalan, Tapi Tidak Selalu
 Meskipun cara menilai mereka berbeda, secara umum film yang disukai audiens juga disukai kritikus. Terdapat korelasi positif yang jelas antara Rating IMDb dan Metascore. Namun, banyaknya sebaran data menunjukkan masih banyak film di mana kedua pihak memiliki pendapat yang berbeda.
@@ -48,6 +48,6 @@ Analisis menunjukkan bahwa tidak ada sertifikasi usia tertentu yang secara konsi
 5. Popularitas vs. Kualitas: Apa yang Mendorong Pendapatan?
 Heatmap korelasi memberikan wawasan bisnis yang sangat penting:
 
-- Korelasi terkuat adalah antara Jumlah Suara (No_of_Votes) dan Pendapatan (Gross) (0.57). Ini logis: semakin populer sebuah film, semakin banyak orang yang menonton dan memberikan suara.
+  - Korelasi terkuat adalah antara Jumlah Suara (No_of_Votes) dan Pendapatan (Gross) (0.57). Ini logis: semakin populer sebuah film, semakin banyak orang yang menonton dan memberikan suara.
 
-- Yang paling menarik, korelasi antara skor kritikus (Meta_score) dan Pendapatan (Gross) hampir tidak ada (-0.03). Ini membuktikan bahwa pujian dari kritikus tidak menjamin kesuksesan sebuah film di box office.
+  - Yang paling menarik, korelasi antara skor kritikus (Meta_score) dan Pendapatan (Gross) hampir tidak ada (-0.03). Ini membuktikan bahwa pujian dari kritikus tidak menjamin kesuksesan sebuah film di box office.
